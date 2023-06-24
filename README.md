@@ -1,6 +1,3 @@
-# WealthWiseBank
-It is a frontend template designed to provide a user-friendly and visually appealing interface for a banking application.
-
 # WealthWise Bank - Banking App Template
 
 This repository contains the HTML and CSS code for the WealthWise Bank banking app template. It is a frontend template designed to provide a user-friendly and visually appealing interface for a banking application.
