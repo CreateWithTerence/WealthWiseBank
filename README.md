@@ -22,4 +22,4 @@ Please note that this template does not include any backend code or functionalit
 
 Feel free to explore the template and customize it according to your specific requirements to create a captivating and user-friendly banking app interface.
 
-![WealthWise](https://github.com/CreateWithTerence/WealthWiseBank/assets/77237002/519a1836-c5fe-4273-974b-73e6d3e132d3)
+![WealthWise](https://github.com/CreateWithTerence/WealthWiseBank/assets/77237002/d1a5abe8-d4eb-4a26-af6f-44166525700f)
