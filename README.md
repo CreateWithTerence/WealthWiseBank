@@ -21,3 +21,5 @@ The footer section includes additional information about the app, including a br
 Please note that this template does not include any backend code or functionality. It solely focuses on the frontend design and layout of the banking app. Developers can use this template as a starting point to build the frontend of a banking app and integrate it with backend systems and functionalities.
 
 Feel free to explore the template and customize it according to your specific requirements to create a captivating and user-friendly banking app interface.
+
+![WealthWise](https://github.com/CreateWithTerence/WealthWiseBank/assets/77237002/519a1836-c5fe-4273-974b-73e6d3e132d3)
